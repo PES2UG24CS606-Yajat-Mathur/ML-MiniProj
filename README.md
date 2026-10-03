@@ -6,5 +6,5 @@ An implementation of machine learning approaches for fraud detection on highly i
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PES2UG24CS606-Yajat-Mathur/ML-MiniProj
    cd credit-card-fraud-detection
